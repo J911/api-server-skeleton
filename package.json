@@ -1,0 +1,13 @@
+{
+  "name": "api-server-skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/J911/api-server-skeleton.git",
+  "author": "fb.jaemin@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2"
+  }
+}
